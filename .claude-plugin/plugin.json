@@ -1,0 +1,1 @@
+{ "name": "agent-critters", "version": "0.1.0", "description": "Shows a colored Claude critter above the prompt for each running background agent, one color per model", "types": "./types/index.d.ts" }
